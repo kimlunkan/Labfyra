@@ -7037,7 +7037,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lunka\\.nuget\\packages\\": {}
+    "C:\\Users\\johan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -7045,14 +7045,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\lunka\\source\\repos\\Labfyra\\Lab4\\Lab4\\Lab4.csproj",
+      "projectUniqueName": "C:\\Users\\johan\\Source\\Repo\\Labfyra\\Lab4\\Lab4\\Lab4.csproj",
       "projectName": "Lab4",
-      "projectPath": "C:\\Users\\lunka\\source\\repos\\Labfyra\\Lab4\\Lab4\\Lab4.csproj",
-      "packagesPath": "C:\\Users\\lunka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lunka\\source\\repos\\Labfyra\\Lab4\\Lab4\\obj\\",
+      "projectPath": "C:\\Users\\johan\\Source\\Repo\\Labfyra\\Lab4\\Lab4\\Lab4.csproj",
+      "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\johan\\Source\\Repo\\Labfyra\\Lab4\\Lab4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lunka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7060,12 +7060,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
